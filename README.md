@@ -27,3 +27,15 @@
 <p align="center">
   <i>Thanks for visiting my profile! ⭐</i>
 </p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abolfazl-noroozi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazl-noroozi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
