@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**abolfazl-noroozi/abolfazl-noroozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Abolfazl 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Turning ideas into code, dreams into reality.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Always+learning+and+building.;Exploring+the+world+of+technology." />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🌱 Always learning new things
+- 💡 Interested in technology and programming
+- 🚀 Building projects and exploring new ideas
+- 🎯 Turning ideas into reality
+
+### 🛠️ Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐</i>
+</p>
